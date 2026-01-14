@@ -54,9 +54,6 @@ I enjoy building scalable tools that serve thousands of users — from **custom 
 - 🗄️ **Backend Systems**  
   MySQL schemas, async database layers, server tooling
 
-- 🖥️ **Linux Servers**  
-  SSH management, systemd services, performance tuning
-
 ---
 
 ## 📈 GitHub Stats
