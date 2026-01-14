@@ -71,6 +71,10 @@ I enjoy building scalable tools that serve thousands of users — from **custom 
   <a href="https://github.com/KarterSanamo">
     <img src="https://img.shields.io/badge/GitHub-KarterSanamo-181717?style=for-the-badge&logo=github" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/karter-sanamo-07968b353/">
+    <img src="https://img.shields.io/badge/LinkedIn-Karter%20Sanamo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
