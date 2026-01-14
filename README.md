@@ -56,18 +56,6 @@ I enjoy building scalable tools that serve thousands of users — from **custom 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarterSanamo&show_icons=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarterSanamo&theme=transparent" />
-</p>
-
----
-
 ## 🔥 Currently Working On
 
 - High-performance **Minecraft network plugins**
