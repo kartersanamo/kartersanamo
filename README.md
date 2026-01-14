@@ -80,5 +80,5 @@ I enjoy building scalable tools that serve thousands of users — from **custom 
 ---
 
 <p align="center">
-  <i>"Build systems that scale — then make them fast."</i>
+  <i>"Writing the code is half the battle. Finding the missing semicolon is the other half..."</i>
 </p>
